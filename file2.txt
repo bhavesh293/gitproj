@@ -1,0 +1,6 @@
+total 13
+drwxr-xr-x 1 home 197121  0 Aug 16 22:44 ./
+drwxr-xr-x 1 home 197121  0 Aug 16 22:40 ../
+drwxr-xr-x 1 home 197121  0 Aug 16 22:44 .git/
+-rw-r--r-- 1 home 197121 10 Aug 16 22:41 file1.txt
+-rw-r--r-- 1 home 197121  0 Aug 16 22:44 file2.txt
